@@ -37,6 +37,10 @@ console.log(age); // 5, block scope를 무시할 수 있기때문에 값이 출�
 // Mutable data type
 // thread safety, security, reduce human mistakes 등 여러가지 이유로 constant 사용 권장
 
+// constant로 선언된 data type 중에서..
+// Immutable data types : primitive types, forzen objects (i.e. object.freeze())
+// Mutable data types : all objects by defalut are mutable in JS
+
 const daysInWeek = 7;
 
 // 3. Variable types
