@@ -4,3 +4,4 @@
 
 - [Variable](https://github.com/haneulji1107/javascript-basic/blob/master/variable.js)
 - [Operator](https://github.com/haneulji1107/javascript-basic/blob/master/operator.js)
+- [Function](https://github.com/haneulji1107/javascript-basic/blob/master/function.js)
