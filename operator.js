@@ -109,7 +109,7 @@ console.log(name === "haneul" ? "yes" : "no");
 // use for multiple if checks
 // use for enum-like value check
 // use for multiple type checks in TS
-const browser = "Chrome";
+let browser = "Chrome";
 switch (browser) {
   case "IE":
     console.log("go away!");
