@@ -169,6 +169,8 @@ const calculator = (command, a, b) => {
       return a * b;
     case "remainder":
       return a ** b;
+    default:
+      throw Error("unknown command");
   }
 };
 
