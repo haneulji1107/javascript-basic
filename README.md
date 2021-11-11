@@ -8,3 +8,4 @@
 - [Class](https://github.com/haneulji1107/javascript-basic/blob/master/class.js)
 - [Object](https://github.com/haneulji1107/javascript-basic/blob/master/object.js)
 - [Array](https://github.com/haneulji1107/javascript-basic/blob/master/array.js)
+- [Array APIs](https://github.com/haneulji1107/javascript-basic/blob/master/array-apis.js)
