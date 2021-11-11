@@ -107,4 +107,4 @@ console.log(user3);
 const box1 = { color: "red" };
 const box2 = { color: "blue", size: "big" };
 const box3 = Object.assign({}, box1, box2);
-console.log(box3); // color: "blue"
+console.log(box3); // color: "blue" key가 중복된다면 마지막에 작성한 obj의 value를 출력한다
