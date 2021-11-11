@@ -43,7 +43,7 @@ const value1 = false;
 const value2 = 4 < 2;
 
 // || (or) : finds the first truthy value
-console.log(`or: ${value1 || value2 || check()} `); // 다 true 나와야 true
+console.log(`or: ${value1 || value2 || check()} `); // 하나라도 true 나오면 true
 
 // && (and) : finds the first falsy value
 console.log(`and: ${value1 && value2 && check()} `); // 하나라도 false 나오면 false
